@@ -2,7 +2,7 @@
 
 <!--
 **mbadamve/mbadamve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 I am Mahesh! Welcome to my GitHub.
 
 
@@ -13,4 +13,4 @@ I am Mahesh! Welcome to my GitHub.
 - 💬 Ask me about programming in Python, R and SQL 
 - 📫 How to reach me: maheshbadam945@gmail.com
 - 😄 Pronouns: He/His/Him
--->
+

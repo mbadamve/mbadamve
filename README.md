@@ -3,8 +3,7 @@
 <!--
 **mbadamve/mbadamve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-I am Mahesh! Welcome to my GitHub.
-
+I am Mahesh! Welcome to my GitHub. 
 
 - 🔭 I’m currently working on Parallel Machine Learning and Hadoop Map Reduce projects
 - 🌱 I’m currently learning Text Mining, Transformers, BERT, LSTM in NLP
@@ -14,3 +13,4 @@ I am Mahesh! Welcome to my GitHub.
 - 📫 How to reach me: [Gmail](mailto:maheshbadam945@gmail.com) or DM on [LinkedIn](linkedin.com/in/mahesh-badam)
 - 😄 Pronouns: He/His/Him
 
+I encourage my data science community in forking, adding star to their repos. I suppose if you like my work, you will too :wink:

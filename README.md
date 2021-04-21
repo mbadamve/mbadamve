@@ -11,6 +11,6 @@ I am Mahesh! Welcome to my GitHub.
 - 👯 I’m looking to collaborate on Deep Learning projects
 - 🤔 I’m looking for help with delpoying ML Models in production
 - 💬 Ask me about programming in Python, R and SQL 
-- 📫 How to reach me: maheshbadam945@gmail.com or DM on [LinkedIn](linkedin.com/in/mahesh-badam)
+- 📫 How to reach me: [Gmail](mailto:maheshbadam945@gmail.com) or DM on [LinkedIn](linkedin.com/in/mahesh-badam)
 - 😄 Pronouns: He/His/Him
 

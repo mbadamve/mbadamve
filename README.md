@@ -13,4 +13,4 @@ I am Mahesh! Welcome to my GitHub.
 - 📫 How to reach me: [Gmail](mailto:maheshbadam945@gmail.com) or DM on [LinkedIn](linkedin.com/in/mahesh-badam)
 - 😄 Pronouns: He/His/Him
 
-I encourage my data science community in forking, adding star to their repos. I suppose if you like my work, you will too :wink:
+I encourage my data science community in forking, adding star to their repos that I find interesting. I suppose if you like my work, you will too :wink:
